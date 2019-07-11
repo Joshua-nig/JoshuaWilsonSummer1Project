@@ -129,6 +129,8 @@ a.btn.btn-info-contact.btn-linkedIn:hover{
 }
 
 
+
+
 a.btn.btn-info-contact.btn-camp{
    border:2px solid rgb(0,100,0);
    background-color:rgba(0,100,0,0.4);
@@ -260,13 +262,13 @@ ul.skills-list{
 ul.skills-list li{
   display:inline-block;
   margin-right:20px;
-}
 
-ul.soft-list li{
-  margin-top:20px;
-  display:inline-block;
-  float:left;
-  margin-right:20px;
+}
+.html {
+  border-radius: 50%;
+}
+.skills {
+  text-align:center
 }
 
 /* End skills section */
@@ -448,5 +450,6 @@ ul.bottom-nav li a{
 ul.bottom-nav li a:hover{
   color:#ffffff;
 }
+
 
 /* media rules */
