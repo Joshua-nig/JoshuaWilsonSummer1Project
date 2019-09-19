@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title></title>
+    <link href='css/My_reflections.css' rel='stylesheet' type='text/css'>
+    <link href='css/modal_pop.css' rel='stylesheet' type='text/css'>
+    <link href='css/style.css' rel='stylesheet' type='text/css'>
+    <script src="js/My_reflection.js">
+  </script>
+  </head>
+
+  <body>
+    <img class="slideshow-container" alt="" class="center">
+
+     <div class="slideshow-container">
+
+      <!-- Full-width images with number and caption text -->
+      <div class="mySlides fade">
+        <div class="numbertext">1 / 10</div>
+        <!-- Trigger the Modal -->
+        <img  id="myImg1" src="img/Computer.png" alt="" style="width:150%; max-width:300px" onclick="reflectionImage(1);">
+
+        <!-- The Modal -->
+      </div>
+
+      <div class="mySlides fade2">
+        <div class="numbertext">2 / 10</div>
+        <img id="myImg2" src="img/cage.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(2);">
+      </div>
+
+      <div class="mySlides fade3">
+        <div class="numbertext">3 / 10</div>
+        <img id="myImg3" src="img/hugs.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(3);">
+      </div>
+
+      <div class="mySlides fade4">
+        <div class="numbertext">4 / 10</div>
+        <img id="myImg4" src="img/friendship.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(4);">
+      </div>
+
+      <div class="mySlides fade5">
+        <div class="numbertext">5 / 10</div>
+        <img id="myImg5" src="img/horse.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(5);">
+      </div>
+
+      <div class="mySlides fade6">
+        <div class="numbertext">6 / 10</div>
+        <img id="myImg6" src="img/scrabble.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(6);">
+      </div>
+      <div class="mySlides fade7">
+
+        <div class="numbertext">7 / 10</div>
+        <img id="myImg7" src="img/solidarity.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(7);">
+      </div>
+
+      <div class="mySlides fade8">
+        <div class="numbertext">8 / 10</div>
+        <img id="myImg8" src="img/tree.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(8);">
+      </div>
+
+      <div class="mySlides fade9">
+        <div class="numbertext">9 / 10</div>
+        <img id="myImg9" src="img/bluestuff.png" alt="" style="width:150%; max-width:300px"  onclick="reflectionImage(9);">
+      </div>
+
+      <div id="myModal" class="modal">
+
+        <!-- The Close Button -->
+        <span class="close">&times;</span>
+
+        <!-- Modal Content (The Image) -->
+        <img class="modal-content" src="img/Computer.png" id="img">
+
+        <!-- Modal Caption (Image Text) -->
+        <div id="caption"></div>
+      </div>
+
+      <div class="text"></div>
+    </div>
+
+      <div class="mySlides fade1">
+        <div class="numbertext">1 / 10</div>
+        <img src="computer.png" style="width:100%">
+        <div class="text">Caption Three</div>
+      </div>
+      <div class="mySlides fade2">
+        <div class="numbertext">2 / 10</div>
+        <img src="cage.png" style="width:100%">
+        <div class="text">Caption Three</div>
+      </div>
+      <div class="mySlides fade3">
+        <div class="numbertext">3 / 10</div>
+        <img src="hugs.png" style="width:100%">
+        <div class="text">Caption Three</div>
+      </div>
+      <div class="mySlides fade4">
+        <img src="friendship.png" style="width:100%">
+        <div class="text">Caption Three</div>
+      </div>
+      <div class="mySlides fade5">
+        <div class="numbertext">1 / 10</div>
+        <img src="horse.png" style="width:100%">
+        <div class="text">Capti</div>
+      </div>
+
+
+      <!-- Next and previous buttons -->
+
+    </div>
+    <br>
+
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+      <span class="dot" onclick="currentSlide(6)"></span>
+      <span class="dot" onclick="currentSlide(7)"></span>
+      <span class="dot" onclick="currentSlide(8)"></span>
+      <span class="dot" onclick="currentSlide(9)"></span>
+      <span class="dot" onclick="currentSlide(10)"></span>
+
+
+    </div>
+    <li><a href="index.html">Home</a></li>
+
+<script src="js/modal_pop.js" charset="utf-8"></script>
+
+  </body>
+</html><!-- Slideshow container -->

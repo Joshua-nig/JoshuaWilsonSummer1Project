@@ -388,3 +388,445 @@ function myFunction30() {
     y.style.display = "block";
   }
 }
+function myFunction31() {
+  var x = document.getElementById("Term31");
+  var y = document.getElementById("Definition31");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction32() {
+  var x = document.getElementById("Term32");
+  var y = document.getElementById("Definition32");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction33() {
+  var x = document.getElementById("Term33");
+  var y = document.getElementById("Definition33");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction34() {
+  var x = document.getElementById("Term34");
+  var y = document.getElementById("Definition34");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction35() {
+  var x = document.getElementById("Term35");
+  var y = document.getElementById("Definition35");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction36() {
+  var x = document.getElementById("Term36");
+  var y = document.getElementById("Definition36");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction37() {
+  var x = document.getElementById("Term37");
+  var y = document.getElementById("Definition37");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction38() {
+  var x = document.getElementById("Term38");
+  var y = document.getElementById("Definition38");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction39() {
+  var x = document.getElementById("Term39");
+  var y = document.getElementById("Definition39");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction40() {
+  var x = document.getElementById("Term40");
+  var y = document.getElementById("Definition40");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction41() {
+  var x = document.getElementById("Term41");
+  var y = document.getElementById("Definition41");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction42() {
+  var x = document.getElementById("Term42");
+  var y = document.getElementById("Definition42");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction43() {
+  var x = document.getElementById("Term43");
+  var y = document.getElementById("Definition43");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction44() {
+  var x = document.getElementById("Term44");
+  var y = document.getElementById("Definition44");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction45() {
+  var x = document.getElementById("Term45");
+  var y = document.getElementById("Definition45");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction46() {
+  var x = document.getElementById("Term46");
+  var y = document.getElementById("Definition46");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction47() {
+  var x = document.getElementById("Term47");
+  var y = document.getElementById("Definition47");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction48() {
+  var x = document.getElementById("Term48");
+  var y = document.getElementById("Definition48");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction49() {
+  var x = document.getElementById("Term49");
+  var y = document.getElementById("Definition49");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction50() {
+  var x = document.getElementById("Term50");
+  var y = document.getElementById("Definition50");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction51() {
+  var x = document.getElementById("Term51");
+  var y = document.getElementById("Definition51");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction52() {
+  var x = document.getElementById("Term52");
+  var y = document.getElementById("Definition52");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction53() {
+  var x = document.getElementById("Term53");
+  var y = document.getElementById("Definition53");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction54() {
+  var x = document.getElementById("Term54");
+  var y = document.getElementById("Definition54");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction55() {
+  var x = document.getElementById("Term55");
+  var y = document.getElementById("Definition55");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction56() {
+  var x = document.getElementById("Term56");
+  var y = document.getElementById("Definition56");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction57() {
+  var x = document.getElementById("Term57");
+  var y = document.getElementById("Definition57");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction58() {
+  var x = document.getElementById("Term58");
+  var y = document.getElementById("Definition58");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction59() {
+  var x = document.getElementById("Term59");
+  var y = document.getElementById("Definition59");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction60() {
+  var x = document.getElementById("Term60");
+  var y = document.getElementById("Definition60");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction61() {
+  var x = document.getElementById("Term61");
+  var y = document.getElementById("Definition61");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction62() {
+  var x = document.getElementById("Term62");
+  var y = document.getElementById("Definition62");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction63() {
+  var x = document.getElementById("Term63");
+  var y = document.getElementById("Definition63");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+function myFunction64() {
+  var x = document.getElementById("Term64");
+  var y = document.getElementById("Definition64");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
